@@ -32,7 +32,7 @@ function pesquisar() {
         resultados += `
         <div class="resultados-pesquisa">
             <h2>
-                <a href="https://www.brawlstarsdicas.com.br/crow-wiki-habilidade-e-informacoes/" target="_blank">${dado.nome}</a>
+                <a>${dado.nome}</a>
             </h2>
             <h3>${dado.raridade}</h3>
             <h5>Categoria: ${dado.categoria}</h5>
