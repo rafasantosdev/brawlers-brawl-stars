@@ -15,7 +15,7 @@ let brawler = [
         categoria: "Algoz",
         descricao: "Um ninja ágil e esquivo, Leon tem a habilidade única de se tornar invisível por alguns segundos, permitindo que ele se aproxime de seus inimigos sem ser detectado e infligir grandes quantidades de dano.",
         foto: "Leon.png",
-        tags: "ninja invisível calango furtivo shuriken"
+        tags: "ninja invisibilidade calango furtivo shuriken"
       },
       
       // Objeto para o Spike
