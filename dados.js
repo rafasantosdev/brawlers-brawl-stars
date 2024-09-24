@@ -4,7 +4,7 @@ let brawler = [
         raridade: "Lendário",
         categoria: "Algoz",
         descricao: "Ágil e venenoso, o Corvo ataca com três adagas que envenenam seus inimigos, causando dano ao longo do tempo e enfraquecendo-os. Sua habilidade especial o torna ainda mais letal, permitindo que ele se teletransporte para trás e ataque novamente.",
-        foto: "Crow.png",
+        foto: "Imagens/Crow.png",
         tags: "urubu adaga veneno combate galinha"
       },
       
@@ -14,8 +14,8 @@ let brawler = [
         raridade: "Lendário",
         categoria: "Algoz",
         descricao: "Um ninja ágil e esquivo, Leon tem a habilidade única de se tornar invisível por alguns segundos, permitindo que ele se aproxime de seus inimigos sem ser detectado e infligir grandes quantidades de dano.",
-        foto: "Leon.png",
-        tags: "ninja invisibilidade calango furtivo shuriken"
+        foto: "Imagens/Leon.png",
+        tags: "ninja invisível calango furtivo shuriken"
       },
       
       // Objeto para o Spike
@@ -24,7 +24,7 @@ let brawler = [
         raridade: "Lendário",
         categoria: "Destruidor",
         descricao: "Um cactus irritadiço que ataca seus inimigos à distância com espinhos venenosos. Spike é conhecido por sua alta taxa de dano e capacidade de controlar o campo de batalha com suas plantas carnívoras.",
-        foto: "Spike.png",
+        foto: "Imagens/Spike.png",
         tags: "cacto atirador espinhos sem voz planta"
       },
 
@@ -34,7 +34,7 @@ let brawler = [
         raridade: "Lendário",
         categoria: "Destruidor",
         descricao: "Ele protege, ele ataca, mas, principalmente, ele festeja! Wattson ataca com cargas elétricas que se bifurcam ao atingir o alvo.",
-        foto: "Surge.png",
+        foto: "Imagens/Surge.png",
         tags: "evolução estiloso energético robô nivel"
       },
 
@@ -44,7 +44,7 @@ let brawler = [
         raridade: "Super-Raro",
         categoria: "Tanque",
         descricao: "Darryl é um robô com uma espingarda de dois canos e que está pronto para rolar!",
-        foto: "Darryl.png",
+        foto: "Imagens/Darryl.png",
         tags: "robô tanque pirata super rola bosta"
       },
 
@@ -54,7 +54,7 @@ let brawler = [
         raridade: "Mítico",
         categoria: "Lançador",
         descricao: "Sprout foi criado para plantar vidas e lançar bombas de semente por onde passa. Seu Super cria uma barreira vegetal!",
-        foto: "Sprout.png",
+        foto: "Imagens/Sprout.png",
         tags: "planta roto repolho flower parede"
       },
 
@@ -64,7 +64,7 @@ let brawler = [
         raridade: "Mítico",
         categoria: "Algoz",
         descricao: "Mortis dá uma arrancada para frente a cada golpe com sua pá. No Super, ele envia uma nuvem de morcegos que causam dano nos inimigos e recuperam seus pontos de vida!",
-        foto: "Mortis.png",
+        foto: "Imagens/Mortis.png",
         tags: "coveiro pá mortal morcegão pro player"
       },
 
@@ -74,7 +74,7 @@ let brawler = [
         raridade: "Lendário",
         categoria: "Controle",
         descricao: "Sandy, apesar do seu probleminha com insônia, controla areia como ninguém. Para mostrar isso, conjura pedregulhos afiados e uma tempestade de areia. Os primeiros atacam os inimigos, a segunda camufla os aliados.",
-        foto: "Sandy.png",
+        foto: "Imagens/Sandy.png",
         tags: "sono areia invisibilidade soneca dormir"
       },
 
@@ -84,8 +84,8 @@ let brawler = [
         raridade: "Mítico",
         categoria: "Controle",
         descricao: "Mister P faz um baita esforço para administrar o hotel e sempre acaba gritando com seus ajudantes, mas o pior de tudo é que eles não entendem nada do que o chefe diz…",
-        foto: "MR P.png",
-        tags: "maleta pinguim chefe pingu estressado"
+        foto: "Imagens/Mr. P.png",
+        tags: "maleta pinguim chefe pingu estressado Mr P mr p"
       },
 
         // Objeto para a Piper
@@ -94,7 +94,7 @@ let brawler = [
           raridade: "Épico",
           categoria: "Tiro Preciso",
           descricao: "Piper de la Prim é sempre a bela da briga. Com toda a classe, para começar, ela também foi o melhor da sua turma no tiro ao alvo.",
-          foto: "Piper.png",
+          foto: "Imagens/Piper.png",
           tags: "sniper alcance tiro dano alcançe"
         },
     
@@ -104,7 +104,7 @@ let brawler = [
             raridade: "Raro",
             categoria: "Suporte",
             descricao: "Poco dispara ondas de som nos inimigos. O Super dele cura tanto a si mesmo quanto a seus colegas!",
-            foto: "Poco.png",
+            foto: "Imagens/Poco.png",
             tags: "cura música apoio poquito músico"
           }
 ];
